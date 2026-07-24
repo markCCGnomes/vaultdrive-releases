@@ -60,7 +60,7 @@ than a public issue.
 ---
 
 <p align="center">
-  <img src="brand/vaultsuite-lockup.png" alt="VaultSuite" width="220" /><br/>
+  <img src="brand/vaultsuite-icon.png" alt="VaultSuite" width="96" /><br/>
   VaultDrive is part of the <strong>VaultSuite</strong> family &mdash;
   <a href="https://github.com/markCCGnomes/reelvault-releases">ReelVault</a> &middot;
   <a href="https://github.com/markCCGnomes/vaultdocs-releases">VaultDocs</a> &middot;
